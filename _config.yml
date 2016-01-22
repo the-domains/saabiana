@@ -1,0 +1,28 @@
+name: Saabiana
+favicon: null
+layout_spectrum: 0.883628613082692
+typography_spectrum: 0.4697972934227437
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6751431312877685
+  lightness: 0.9711623750627041
+  saturation: 0.21115615777671337
+  rhythmicContrast: 0.6352569630835205
+purpose: []
